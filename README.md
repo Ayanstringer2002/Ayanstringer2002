@@ -1,17 +1,17 @@
-🔥 Hi there, I'm [Your Name] 👋
+🔥 Hi there, I'm Ayan Ahmad 👋
 
-I'm passionate about **Machine Learning, Data Science, Large Language Models (LLMs), and Generative AI**.
+I'm passionate about **Machine Learning, Data Science, Full Stack Web Development**.
 
-I love exploring how AI can solve real-world problems and create new possibilities. Always excited to learn and share cool projects!
+I love exploring how AI can solve real-world problems and merged with web app for future enhancement. Always excited to learn and share cool projects!
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 I am currently a Master's student in [Your Course] at [Your University].
-- 👨‍💻 I have [X] years of experience in [mention your skills like ML, Data Science, Web Development, etc.].
-- 📚 I have completed certifications from **Stanford University, IBM, and University of Michigan**.
-- 🔭 I am working on projects related to **Deep Learning, NLP, and Generative AI**.
+- 🎓 I am currently a Third Year Btech student in at VIT bHOPAL.
+- 👨‍💻 I am a passionate Competetive coder with current rating of 1476 (2 star) in Codechef and 1016 in Codeforces.
+- 📚 I have also done several certifications such as Cloud Computing from IIT Kharagpur,Udemy certifications.
+- 🔭 I am working on projects related to **Deeplearning and **Web Development and some of my Projects are Hate speech prediction and Student Performance Detector.
 
 ---
 
@@ -29,16 +29,16 @@ Here are some tools and technologies I use:
 ## 🚀 My Projects:
 Here are some of the projects I’ve worked on:
 
-### 📌 [Predicting Startup Outcomes with XGBoost](https://github.com/yourusername/startup-prediction)
-![Startup Image](https://user-images.githubusercontent.com/.../startup-image.png)
+### 📌 [Hate Speech Predictor](https://github.com/yourusername/HateSpeech-prediction)
+![Hate Image](https://user-images.githubusercontent.com/.../Hate-image.png)
 
-### 📌 [HR Job Market Analysis using LightGBM](https://github.com/yourusername/hr-job-analysis)
-![HR Image](https://user-images.githubusercontent.com/.../hr-image.png)
+### 📌 [Student Performance Prediction](https://github.com/yourusername/student-prediction)
+![Student Image](https://user-images.githubusercontent.com/.../student-image.png)
 
 ---
 
 ## 📫 Let's Connect!
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 [Email](mailto:your-email@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ayan-ahmad-20901b252/)
+- 🐦 [Twitter](https://x.com/Ayanahm17387300)
+- 📧 [Email](ayan988ahmad@gmail.com)
 
