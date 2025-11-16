@@ -8,7 +8,7 @@ I love exploring how AI can solve real-world problems and merged with web app fo
 
 ## 🧑‍💻 About Me
 
-- 🎓 I am currently a Third Year Btech student in at VIT BHOPAL.
+- 🎓 I am currently a Final Year Btech student in at VIT BHOPAL.
 - 👨‍💻 I am a passionate Competetive coder with current rating of 1669 (3 star) in Codechef and 1016 in Codeforces.
 - 📚 I have also done several certifications such as Cloud Computing from IIT Kharagpur,Udemy certifications.
 - 🔭 I am working on projects related to **Deeplearning and **Web Development and some of my Projects are Hate speech prediction and Student Performance Detector.
