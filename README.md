@@ -1,6 +1,6 @@
 🔥 Hi there, I'm Ayan Ahmad 👋
 
-I'm passionate about **Machine Learning, Data Science, Full Stack Web Development**.
+I'm passionate about **Machine Learning, Data Science, Full Stack Web Development, Backend Development**.
 
 I love exploring how AI can solve real-world problems and merged with web app for future enhancement. Always excited to learn and share cool projects!
 
