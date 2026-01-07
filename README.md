@@ -43,8 +43,6 @@ Here are some of the projects I’ve worked on:
 ### 📌 [Hate Speech Predictor](https://github.com/yourusername/HateSpeech-prediction)
 ![Hate Image](https://user-images.githubusercontent.com/.../Hate-image.png)
 
-### 📌 [Student Performance Prediction](https://github.com/yourusername/student-prediction)
-![Student Image](https://user-images.githubusercontent.com/.../student-image.png)
 
 ---
 
